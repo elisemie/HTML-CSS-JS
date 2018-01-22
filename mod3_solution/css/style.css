@@ -1,1 +1,97 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  border-radius: 0;
+  border:0;
+  font-size: 16px;
+  color: #7e7c82;
+  background-color: #f4d3eb;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/**Header**/
+#header-nav {
+	background-color: #b599cf;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar-brand {
+	margin-left: 0;
+	margin-bottom: 0;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	font-family: 'Merriweather', serif;
+}
+
+.nav-brand p span {
+	vertical-align: middle;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #7e7c82;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+#nav-list a span {
+	font-size: 1.5em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #7e7c82;
+}
+section {
+  border: 1px;
+  background-color: #f4d8b3;
+  font-family: 'Merriweather', serif;
+  color: black;
+  position: relative;
+  margin: 10px;
+}
+
+#chicken h2{
+	border: 0;
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
+
+#beef h2{
+	border: 0;
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
+
+#sushi h2{
+	border: 0;
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+}
 
